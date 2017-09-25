@@ -8,7 +8,7 @@ We are starting with time-tested patterns from non-profits, collaboratives, and 
 
 * **[Mission](/mission.md)** -- our purpose for existing, our charge, our goal, what this initiative does. (1 succinct sentence only)
 
-* _[if there’s extra on “how” we do our work, add **model / strategic plan / initiative areas**]_
+* _[if there’s extra on “how” we do our work, add **[model](/model.md) / strategy / strategic plan / initiative areas**]_
 
 * **[Vision](/vision.md)** -- our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves + partners to strive together, and can be more flowery than the mission
 
