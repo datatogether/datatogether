@@ -12,7 +12,7 @@ We are starting with time-tested patterns from non-profits, collaboratives, and 
 
 * **[Vision](/vision.md)** -- our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves + partners to strive together, and can be more flowery than the mission
 
-* _[if there’s extra on “why” / the need and motivation, add **problem statement / historical context**]_
+* _[if there’s extra on “why” / the need and motivation, add **[problem statement](/problem.md) / historical context**]_
 
 * **[Values](/values.md)** -- single words with short sentence fragment descriptions. (5 max)
 
