@@ -6,7 +6,7 @@ We are engaging in a collaborative process to more clearly describe Data Togethe
 
 * **[Mission](/mission.md)** -- our purpose for existing, our charge, our goal, what this initiative does. (1 succinct sentence only)
 
-* _[if there’s extra on “how” we do our work, add **[model](/model.md) / strategy / strategic plan / initiative areas**]_
+* _[if there’s extra on “how” we do our work, add **[model](/model.md) / [strategy](/strategy.md) / strategic plan / initiative areas**]_
 
 * **[Vision](/vision.md)** -- our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves + partners to strive together, and can be more flowery than the mission
 
