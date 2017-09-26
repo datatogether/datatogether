@@ -1,5 +1,4 @@
-**still in need of synthesis**
-
-See this draft text: https://github.com/datatogether/datatogether/blob/about/concise-explanation/about/README.md#the-model
-
-and this https://github.com/datatogether/datatogether/tree/about/concise-explanation/about/model#at-its-core-content-addressing
+The *verification* problem can be solved by cryptographic signing (implemented in IPFS)  
+The *authority* problem can be solved by webs of trust (to be implemented in Data Together app)  
+The *discovery* problem can be solved by ??? (archivers has a “coverage” service that might be a model, but ultimately this should be decentralized, right?)  
+The *access* problem feels like a complex one, actually.
