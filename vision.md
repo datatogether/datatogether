@@ -1,1 +1,0 @@
-**Vision**: Together we are the civic layer of the decentralized web where communities work cooperatively, share responsibilities, and reinforce each other so that data is accessible to all, immediately discoverable, easily verifiable, and robustly preserved.
