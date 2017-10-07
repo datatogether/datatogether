@@ -1,4 +1,7 @@
-### Defining Terms
+# Glossary
+
+## Defining Terms
+
 * Community
 * Data
 * Open Source
@@ -15,9 +18,10 @@
 * Hash
 * Identifier
 * URI
-vURL
+* URL
 
-### Defining Technologies
+## Defining Technologies
+
 * IPFS
 * Git
 * Github
