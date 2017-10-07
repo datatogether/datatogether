@@ -10,7 +10,7 @@ _Our purpose for existing, our charge, our goal, what this initiative does. (1 s
 
 Data Together helps communities steward the data they care about.
 
-_[if there’s extra on “how” we do our work, add **[model](/model.md) / [strategy](/strategy.md) / strategic plan / initiative areas**]_
+_[if there’s extra on “how” we do our work, add **[model](/model.md) / strategy / strategic plan / initiative areas**]_
 
 ## Vision 
 
