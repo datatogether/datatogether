@@ -8,6 +8,6 @@ If a participant engages in harassing behaviour, the organizers may take any act
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizing team immediately.
 
-At offline events, organizers will idnetify themselves, and will help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your participation!
+At offline events, organizers will identify themselves, and will help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your participation!
 
 This document is based on a similar code from [EDGI](https://envirodatagov.org/) and [Civic Tech Toronto](http://civictech.ca/about-us/), itself derived from the [Recurse Center’s Social Rules](https://www.recurse.com/manual#sec-environment), and the [anti-harassment policy from the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
