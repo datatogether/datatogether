@@ -1,8 +1,8 @@
 # Data Together
 
-> Community Patterns for the Decentralized Web
+### <em>Community Patterns for the Decentralized Web</em>
 
-We are engaging in a collaborative process to more clearly describe Data Together so that the initiative can be better understood by newcomers. This process began during an in-person meeting in Boston on August 29, 2017 with @dcwalk, @flyingzumwalt, @jeffreyliu, @mhucka, @ebarry, @b5, @jschell42, @titaniumbones, @rgardaphe. We are starting with time-tested patterns from non-profits, collaboratives, and companies: Mission, Vision, Values. Please click on the links below to see and comment on the draft text:    
+We are engaging in a collaborative process to more clearly describe Data Together so that the initiative can be better understood by newcomers. This process began during an in-person meeting in Boston on August 29, 2017 with [@dcwalk](https://github.com/dcwalk), [@flyingzumwalt](https://github.com/flyingzumwalt), [@jeffreyliu](https://github.com/jeffreyliu), [@mhucka](https://github.com/mhucka), [@ebarry](https://github.com/ebarry), [@b5](https://github.com/b5), [@jschell42](https://github.com/jschell42), [@titaniumbones](https://github.com/titaniumbones), [@rgardaphe](https://github.com/rgardaphe). We are starting with time-tested patterns from non-profits, collaboratives, and companies: Mission, Vision, Values. Please click on the links below to see and comment on the draft text:
 
 ## Mission
 
