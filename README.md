@@ -12,7 +12,7 @@
 
 ## Getting Involved
 
-We are engaging in a collaborative process to more clearly describe Data Together so that the initiative can be better understood by newcomers. This process began during an in-person meeting in Boston on August 29, 2017 with [@dcwalk](https://github.com/dcwalk), [@flyingzumwalt](https://github.com/flyingzumwalt), [@jeffreyliu](https://github.com/jeffreyliu), [@mhucka](https://github.com/mhucka), [@ebarry](https://github.com/ebarry), [@b5](https://github.com/b5), [@jschell42](https://github.com/jschell42), [@titaniumbones](https://github.com/titaniumbones), [@rgardaphe](https://github.com/rgardaphe). We are starting with time-tested patterns from non-profits, collaboratives, and companies: Mission, Vision, Values. Please click on the links below to see and comment on the draft text:
+We are engaging in a collaborative process to more clearly describe Data Together so that the initiative can be better understood by newcomers. This process began during an in-person meeting in Boston on August 29, 2017 with [@dcwalk](https://github.com/dcwalk), [@flyingzumwalt](https://github.com/flyingzumwalt), [@jeffreyliu](https://github.com/jeffreyliu), [@mhucka](https://github.com/mhucka), [@ebarry](https://github.com/ebarry), [@b5](https://github.com/b5), [@jschell42](https://github.com/jschell42), [@titaniumbones](https://github.com/titaniumbones), [@rgardaphe](https://github.com/rgardaphe). We are starting with time-tested patterns from non-profits, collaboratives, and companies: Mission, Vision, Values. Please click on the links below to see and comment on the draft text.
 
 If you would like to add to the discussion and submit changes, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
 
@@ -28,7 +28,7 @@ _[if there’s extra on “how” we do our work, add **[model](/model.md) / str
 
 ## Vision 
 
-_Our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves and partners to strive together, and can be more flowery than the mission_
+_Our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves and partners to strive together, and can be more flowery than the mission_.
 
 Together we are the civic layer of the decentralized web where communities work cooperatively, share responsibilities, and reinforce each other so that data is accessible to all, immediately discoverable, easily verifiable, and robustly preserved.
 
