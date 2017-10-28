@@ -5,7 +5,9 @@
 [![License](https://img.shields.io/github/license/datatogether/learning.svg?style=flat-square)](./LICENSE)
 
 ### <em>Community Patterns for the Decentralized Web</em>
+
 We're building a better future for data [on our beta platform](https://archivers.co). come join us!
+
 ## License
 
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Together Documentation Materials</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
@@ -16,7 +18,7 @@ We are engaging in a collaborative process to more clearly describe Data Togethe
 
 If you would like to **add to the discussion and submit changes**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
 
-If you just want to **get into the code and start hacking**, then [webapp](https://github.com/datatogether/sentry) and [sentry](http://github.com/datatogether/sentry) are pobably the best points of entry.
+If you want to **get into the code and start hacking**, then [webapp](https://github.com/datatogether/sentry) and [sentry](http://github.com/datatogether/sentry) are the best points of entry.
 
 We use GitHub issues for [tracking ideas and errors](https://github.com/datatogether/datatogether/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/datatogether/pulls). Every repository has its own issue tracker so please be sure to post your issues in the best place!
 
