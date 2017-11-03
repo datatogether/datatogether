@@ -22,19 +22,17 @@ If you want to **get into the code and start hacking**, then [webapp](https://gi
 
 We use GitHub issues for [tracking ideas and errors](https://github.com/datatogether/datatogether/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/datatogether/pulls). Every repository has its own issue tracker so please be sure to post your issues in the best place!
 
-## Mission
+Many of the people behind Data Together are active participants in the [Archivers Slack team](https://archivers-slack.herokuapp.com/), which anyone can join. We use the #datatogether channel.
 
-_Our purpose for existing, our charge, our goal, what this initiative does. (1 succinct sentence only)_
+## Mission (work in progress)
 
-Data Together helps communities steward the data they care about.
+Data Together is a rallying point at the intersection between collective action and decentralized technologies. It pulls together community organizations, institutions, government agencies and NGOs to create a participatory version of the web where people _possess_ copies of the data they rely on and coordinate to hold data as collective assets.
 
-_[if there’s extra on “how” we do our work, add **[model](/model.md) / strategy / strategic plan / initiative areas**]_
-
-## Vision 
+## Vision (work in progress)
 
 _Our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves and partners to strive together, and can be more flowery than the mission_.
 
-Together we are the civic layer of the decentralized web where communities work cooperatively, share responsibilities, and reinforce each other so that data is accessible to all, immediately discoverable, easily verifiable, and robustly preserved.
+People should be able to possess copies of the data they rely on and communities need to coordinate in order to hold data as collective assets. This necessitates a form of participatory librarianship, where people and organizations coordinate to use decentralized, peer to peer techniques and ensure that the data they rely on are accessible, discoverable and well preserved. In order to achieve this, community organizations, institutions, government agencies and NGOs must build themselves into the decentralized web in order to ensure that this resilient, more secure, participatory version of web is governed by exemplary forms of collective action.
 
 _[if there’s extra on “why” / the need and motivation, add **[problem statement](/problem.md) / historical context**]_
 
