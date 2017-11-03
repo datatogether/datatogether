@@ -24,15 +24,17 @@ Many of the people behind Data Together are active participants in the [Archiver
 
 ## Mission (work in progress)
 
+We're building a better future for data.
+
 Data Together is a rallying point for everyone who believes that people should be able to possess copies of the data they rely on, and who see that communities should be using decentralized technologies in order to hold data as collective assets.
 
 ## Vision (work in progress)
 
 _Our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves and partners to strive together, and can be more flowery than the mission_.
 
-Decentralized, peer to peer technologies present radical opportunities for people and communities to take possession of the data they rely on and to coordinate amongst themselves to govern what data are held (or not held) on their machines and their networks. This will be a powerful tool for addressing many pressing problems  -- preventing monopolies, addressing issues of trust on the web, preserving the public record, increasing government transparency and encouraging constructive usage of government data, improving reproducibility of scientific research, dealing with censorship, protecting privacy, etc.
+Decentralized, peer to peer technologies present radical opportunities for people and communities to take possession of the data they rely on and to coordinate amongst themselves to govern what data are held (or not held) on their machines and their networks. This will be a powerful tool for addressing many pressing problems of the web today  -- preventing monopolies, addressing issues of trust on the web, preserving the public record, increasing government transparency and encouraging constructive usage of government data, improving reproducibility of scientific research, dealing with censorship, protecting privacy, giving disenfranchised groups control over their own voice on the web, etc.
 
-If we are to pursue these opportunities, we must also grapple with the challenges of [collective action](https://en.wikipedia.org/wiki/Collective_action) -- particularly the challenges of maintaining [public goods](https://en.wikipedia.org/wiki/Public_good) and [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource) -- on the web. If we give people the ability to _posess_ the data they rely on, we must also give them ways to coordinate _shared possession_ of data.  We can partially solve this through technology, but ultimately it requires community organizations, institutions (Galleries, Libraries, Archives, Museums), NGOs and Government agencies building themselves into the decentralized web in order to ensure that it's governed by motives of collective benefit for everyone rather than profit for a select few.
+If we are to pursue these opportunities, we must also grapple with the challenges of [collective action](https://en.wikipedia.org/wiki/Collective_action) -- particularly the challenges of maintaining [public goods](https://en.wikipedia.org/wiki/Public_good) and [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource) -- on the web. If we give people the ability to **posess the data they rely on**, we must also give them ways to **coordinate shared possession of data**.  We can partially solve this through technology, but ultimately it requires community organizations, institutions (Galleries, Libraries, Archives, Museums), NGOs and Government agencies building themselves into the decentralized web in order to ensure that it's governed by motives of collective benefit for everyone rather than profit for a select few.
 
 The urgency of addressing these needs is made even stronger when you consider the ongoing evolution of the web, with IoT (the Internet of Things), smart cities, and the pending explosion of Virtual Reality, Augmented Reality and Mixed Reality. The dangers of centralization will only get worse if we don't build the alternative, and that alternative is about more than just technological solutions.
 
@@ -50,6 +52,15 @@ _These are single words with short sentence fragment descriptions. (5 max)_
 * **OPENNESS** &ndash; Make decisions and coordinate openly and transparently  
 
 _[also, note useful **elevator pitches** -- the “all-in-one” sentences that efficiently go from the problem to the solution]_
+
+## Projects
+
+We coordinate a number of projects and sub-components in the [Data Together github org](https://github.com/datatogether). This is a short list of those projects. For a complete list of all repositories, visit https://github.com/datatogether **Please join in!**
+
+* [Learning](https://github.com/datatogether/learning) - A repository where we are gathering learning materials about Data Together and the surrounding topics.
+* [Platform](https://archivers.co):  The beta platform at https://archivers.co is one example of where we're going. The code for that platform lives at https://github.com/datatogether/webapp
+* [Coverage](https://github.com/datatogether/coverage) - A project for visualizing the status of digital data archiving efforts across various data repositories http://api.archivers.co/coverage Edit
+
 
 ## License
 
