@@ -8,15 +8,13 @@
 
  We're building a better future for data. The [beta platform at https://archivers.co](https://archivers.co) is one example of where we're going. Come join us!
 
-## License
+ ## Current Status
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Together Documentation Materials</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+[26 October 2017] _We are engaging in a collaborative process to more clearly describe Data Together so that the initiative can be better understood by newcomers. This process began during an in-person meeting in Boston on August 29, 2017 with [@dcwalk](https://github.com/dcwalk), [@flyingzumwalt](https://github.com/flyingzumwalt), [@jeffreyliu](https://github.com/jeffreyliu), [@mhucka](https://github.com/mhucka), [@ebarry](https://github.com/ebarry), [@b5](https://github.com/b5), [@jschell42](https://github.com/jschell42), [@titaniumbones](https://github.com/titaniumbones), [@rgardaphe](https://github.com/rgardaphe). We are starting with time-tested patterns from non-profits, collaboratives, and companies: Mission, Vision, Values. Please click on the links below to see and comment on the draft text._
 
 ## Getting Involved
 
-We are engaging in a collaborative process to more clearly describe Data Together so that the initiative can be better understood by newcomers. This process began during an in-person meeting in Boston on August 29, 2017 with [@dcwalk](https://github.com/dcwalk), [@flyingzumwalt](https://github.com/flyingzumwalt), [@jeffreyliu](https://github.com/jeffreyliu), [@mhucka](https://github.com/mhucka), [@ebarry](https://github.com/ebarry), [@b5](https://github.com/b5), [@jschell42](https://github.com/jschell42), [@titaniumbones](https://github.com/titaniumbones), [@rgardaphe](https://github.com/rgardaphe). We are starting with time-tested patterns from non-profits, collaboratives, and companies: Mission, Vision, Values. Please click on the links below to see and comment on the draft text.
-
-If you would like to **add to the discussion and submit changes**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
+If you would like to **add to the discussion and submit changes**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md).
 
 If you want to **get into the code and start hacking**, then [webapp](https://github.com/datatogether/sentry) and [sentry](http://github.com/datatogether/sentry) are the best points of entry.
 
@@ -26,13 +24,19 @@ Many of the people behind Data Together are active participants in the [Archiver
 
 ## Mission (work in progress)
 
-Data Together is a rallying point at the intersection between collective action and decentralized technologies. It pulls together community organizations, institutions, government agencies and NGOs to create a participatory version of the web where people _possess_ copies of the data they rely on and coordinate to hold data as collective assets.
+Data Together is a rallying point for everyone who believes that people should be able to possess copies of the data they rely on, and who see that communities should be using decentralized technologies in order to hold data as collective assets.
 
 ## Vision (work in progress)
 
 _Our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves and partners to strive together, and can be more flowery than the mission_.
 
-People should be able to possess copies of the data they rely on and communities need to coordinate in order to hold data as collective assets. This necessitates a form of participatory librarianship, where people and organizations coordinate to use decentralized, peer to peer techniques and ensure that the data they rely on are accessible, discoverable and well preserved. In order to achieve this, community organizations, institutions, government agencies and NGOs must build themselves into the decentralized web in order to ensure that this resilient, more secure, participatory version of web is governed by exemplary forms of collective action.
+Decentralized, peer to peer technologies present radical opportunities for people and communities to take possession of the data they rely on and to coordinate amongst themselves to govern what data are held (or not held) on their machines and their networks. This will be a powerful tool for addressing many pressing problems  -- preventing monopolies, addressing issues of trust on the web, preserving the public record, increasing government transparency and encouraging constructive usage of government data, improving reproducibility of scientific research, dealing with censorship, protecting privacy, etc.
+
+If we are to pursue these opportunities, we must also grapple with the challenges of [collective action](https://en.wikipedia.org/wiki/Collective_action) -- particularly the challenges of maintaining [public goods](https://en.wikipedia.org/wiki/Public_good) and [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource) -- on the web. If we give people the ability to _posess_ the data they rely on, we must also give them ways to coordinate _shared possession_ of data.  We can partially solve this through technology, but ultimately it requires community organizations, institutions (Galleries, Libraries, Archives, Museums), NGOs and Government agencies building themselves into the decentralized web in order to ensure that it's governed by motives of collective benefit for everyone rather than profit for a select few.
+
+The urgency of addressing these needs is made even stronger when you consider the ongoing evolution of the web, with IoT (the Internet of Things), smart cities, and the pending explosion of Virtual Reality, Augmented Reality and Mixed Reality. The dangers of centralization will only get worse if we don't build the alternative, and that alternative is about more than just technological solutions.
+
+Data Together seeks to pull together the  many people and projects who see huge opportunities and threats at this intersection between the collective action and decentralized technologies.
 
 _[if there’s extra on “why” / the need and motivation, add **[problem statement](/problem.md) / historical context**]_
 
@@ -46,3 +50,7 @@ _These are single words with short sentence fragment descriptions. (5 max)_
 * **OPENNESS** &ndash; Make decisions and coordinate openly and transparently  
 
 _[also, note useful **elevator pitches** -- the “all-in-one” sentences that efficiently go from the problem to the solution]_
+
+## License
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Together Documentation Materials</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
