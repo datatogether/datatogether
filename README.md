@@ -6,7 +6,7 @@
 
 ### <em>Community Patterns for the Decentralized Web</em>
 
-We're building a better future for data [on our beta platform](https://archivers.co). come join us!
+ We're building a better future for data. The [beta platform at https://archivers.co](https://archivers.co) is one example of where we're going. Come join us!
 
 ## License
 
