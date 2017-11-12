@@ -24,19 +24,23 @@ Many of the people behind Data Together are active participants in the [Archiver
 
 ## Mission (work in progress)
 
+_Our purpose for existing, our charge, our goal, what this initiative does. (1 succinct sentence only)_
+
 We're building a better future for data.
 
 Data Together is a rallying point for everyone who believes that people should be able to possess copies of the data they rely on, and who see that communities should be using decentralized technologies in order to hold data as collective assets.
+
+_[if there’s extra on “how” we do our work, add **[model](/model.md) / strategy / strategic plan / initiative areas**]_
 
 ## Vision (work in progress)
 
 _Our future abilities and role in broader movement, NOT a utopian static state. Meant to be inspirational to ourselves and partners to strive together, and can be more flowery than the mission_.
 
-Decentralized, peer to peer technologies present radical opportunities for people and communities to take possession of the data they rely on and to coordinate amongst themselves to govern what data are held (or not held) on their machines and their networks. This will be a powerful tool for addressing many pressing problems of the web today  -- preventing monopolies, addressing issues of trust on the web, preserving the public record, increasing government transparency and encouraging constructive usage of government data, improving reproducibility of scientific research, dealing with censorship, protecting privacy, giving disenfranchised groups control over their own voice on the web, etc.
+Decentralized Web technologies present radical opportunities for people and communities to take possession of the data they rely on and to coordinate amongst themselves to govern what data are held (or not held) on their machines and their networks. This will be a powerful tool for addressing many pressing problems of the web today  -- preventing monopolies, addressing issues of trust on the web, preserving the public record, increasing government transparency and encouraging constructive usage of government data, improving reproducibility of scientific research, dealing with censorship, protecting privacy, giving disenfranchised groups control over their own voice on the web, etc.
 
-If we are to pursue these opportunities, we must also grapple with the challenges of [collective action](https://en.wikipedia.org/wiki/Collective_action) -- particularly the challenges of maintaining [public goods](https://en.wikipedia.org/wiki/Public_good) and [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource) -- on the web. If we give people the ability to **posess the data they rely on**, we must also give them ways to **coordinate shared possession of data**.  We can partially solve this through technology, but ultimately it requires community organizations, institutions (Galleries, Libraries, Archives, Museums), NGOs and Government agencies building themselves into the decentralized web in order to ensure that it's governed by motives of collective benefit for everyone rather than profit for a select few.
+If we are to pursue these opportunities, we must also grapple with the challenges of [collective action](https://en.wikipedia.org/wiki/Collective_action) -- particularly the challenges of maintaining [public goods](https://en.wikipedia.org/wiki/Public_good) and [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource) -- on the web. If we give people the ability to **posess the data they rely on**, we must also give them ways to **coordinate shared possession of data**.  We can partially solve this through technology, but ultimately if we want the web to be governed by motives of collective benefit for everyone rather than profit for a select few it requires community organizations, institutions (Galleries, Libraries, Archives, Museums), NGOs (Non-Governmental Organizations) and Government agencies to use decentralized tools to engage and empower their patrons while establishing themselves as valuable participants in the decentralized web.
 
-The urgency of addressing these needs is made even stronger when you consider the ongoing evolution of the web, with IoT (the Internet of Things), smart cities, and the pending explosion of Virtual Reality, Augmented Reality and Mixed Reality. The dangers of centralization will only get worse if we don't build the alternative, and that alternative is about more than just technological solutions.
+The urgency of addressing these needs is made even stronger when you consider the ongoing evolution of the web, with IoT (the Internet of Things), smart cities, and the pending explosion of virtual reality, augmented reality and mixed reality. The dangers of centralization will only get worse if we don't build the alternative, and that alternative is about more than just technological solutions.
 
 Data Together seeks to pull together the  many people and projects who see huge opportunities and threats at this intersection between the collective action and decentralized technologies.
 
