@@ -18,7 +18,7 @@ We are engaging in a collaborative process to more clearly describe Data Togethe
 
 If you would like to **add to the discussion and submit changes**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
 
-If you want to **get into the code and start hacking**, then [webapp](https://github.com/datatogether/sentry) and [sentry](http://github.com/datatogether/sentry) are the best points of entry. We track project progess using a [Waffle Board](https://waffle.io/datatogether/roadmap) and identify major goals in our [Roadmap repository](https://github.com/datatogether/roadmap/).
+If you want to **get into the code and start hacking**, then [webapp](https://github.com/datatogether/sentry) and [sentry](http://github.com/datatogether/sentry) are the best points of entry. We track project progress using a [Waffle Board](https://waffle.io/datatogether/roadmap) and identify major goals in our [Roadmap repository](https://github.com/datatogether/roadmap/).
 
 We use GitHub issues for [tracking ideas and errors](https://github.com/datatogether/datatogether/issues) and Pull Requests (PRs) for [submitting changes](https://github.com/datatogether/datatogether/pulls). Every repository has its own issue tracker so please be sure to post your issues in the best place!
 
