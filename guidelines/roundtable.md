@@ -1,34 +1,34 @@
 ## Data Together Weekly Roundtable Call
 
-Once a week on **Mondays 5-5:30pm**, a rotating facilitator will lead a round table discussion of a Data Together-related topic, challenge, or question. We use a standing [Zoom call link](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201): [zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201) and [GitHub `roundtable` issues](https://github.com/datatogether/datatogether/labels/roundtable) to run each call. **Check out [how to host](#how-to-host)** before running your first call.
+Once a week on **Mondays 5-5:30pm**, a rotating facilitator will lead a roundtable discussion of a Data Together-related topic, challenge, or question. We use a standing [Zoom call link](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201): [zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201) and [GitHub `roundtable` issues](https://github.com/datatogether/datatogether/labels/roundtable) to run each call. **Check out [how to host](#how-to-host)** before running your first call.
 
 ### Objectives
 
-- Check-in on ongoing work and potentially surface larger issues that need to be discussed in-depth
-- Allow initial feedback on developing ideas prior to opening a decision
-- Maintain momentum going between larger coordinating calls
+- Check-in on **ongoing work** and surface **larger issues** that need to be discussed in-depth
+- Allow **initial feedback** on developing ideas prior to opening a decision
+- **Maintain momentum** between partner coordinating calls
 
 ### Format
 
-Meetings will rotate individuals leading a round table around a specific topic, problem, or task. Scheduling topics will interleave implementation, governance, and topic area questions. Round table topics will be picked at least a week in advance.
+Roundtables will rotate individuals who will facilitate discussion around a specific topic, problem, or task. Topics will be picked at least a week in advance. When scheduling, the goal will be to mix governance, topic area, and technical implementation questions. 
 
-Example Round Table Topics:
-- checking in on decision-making process
-- reviewing website copy
-- asking about and open PR or design detail related to a reference implementation
-- identifying partnership & outreach opportunities
+Example topics:
+- check-in on decision-making process
+- review website copy
+- discuss open PR or design detail related to a reference implementation
+- identify partnership & outreach opportunities
 
 #### Timing
 
-- **Mondays 5-5:30pm**
-- Secondary slot: Thursdays 5-5:30pm
+- **Mondays 5-5:30pm** (selected Feb 2018)
+- Secondary slot: Thursdays 5-5:30pm (selected Feb 2018)
 
 For faster-moving conversations the `#datatogether` slack channel and GitHub remain the place for topics that move faster than once weekly conversations, with goal of using github issues. Conversations can be scheduled ad-hoc then added to the calendar and announced in `#datatogether` to ensure others can join.
 
 #### Schedule
 
 - Intros and bullet-point updates (10mins)
-- Round Table (15mins)
+- Roundtable (15mins)
   - aim for new leader each week
 - Wrap-up (5mins)
   - identify TODOs
