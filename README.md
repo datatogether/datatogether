@@ -1,9 +1,5 @@
 # Data Together
 
-[![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
-[![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://archivers-slack.herokuapp.com/)
-[![License](https://img.shields.io/github/license/datatogether/learning.svg?style=flat-square)](./LICENSE)
-
 ### <em>Community Patterns for the Decentralized Web</em>
 
  We're building a better future for data. The [beta platform at https://archivers.co](https://archivers.co) is one example of where we're going. Come join us!
