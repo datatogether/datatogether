@@ -24,7 +24,7 @@ If you want to **get into code and start hacking**, then [webapp](https://github
 
 [**Weekly roundtables**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md) are discussions of a Data Together-related topic, challenge, or question led by a rotating facilitator. If you are hosting, be sure to check out [**how to host**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md#how-to-host) (and add any improvements!)
 
-📅 5pm-6:30pm ET Mondays 
+📅 5pm-5:30pm ET Mondays  
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
