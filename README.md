@@ -7,7 +7,8 @@ Welcome to [Data Together](https://datatogether.org/), we're building a better f
 ## Table of Contents
 
 - [Get Involved](#get-involved)
-- [Weekly Roundtables](#weekly-roundtables)
+  - [Community Calendar](#community-calendar)
+  - [Weekly Roundtables](#weekly-roundtables)
 - [What is Data Together?](#what-is-data-together)
 - [Working Openly](#working-openly)
 
@@ -16,6 +17,10 @@ Welcome to [Data Together](https://datatogether.org/), we're building a better f
 If you would like to **add to the discussion**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
 
 If you want to **get into code and start hacking**, then [webapp](https://github.com/datatogether/sentry) and [sentry](http://github.com/datatogether/sentry) are the best points of entry. We track project progress using a [Waffle Board](https://waffle.io/datatogether/roadmap) and identify major goals in our [Roadmap repository](https://github.com/datatogether/roadmap/).
+
+### Community Calendar
+
+We have a public calendar that lists Data Together events and a Youtube playlists with recordings of our public calls!
 
 📅 [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
 ▶️ [**Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
