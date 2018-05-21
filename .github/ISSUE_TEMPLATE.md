@@ -8,9 +8,9 @@ Check out the templates below, if they don't cover what you need, go freeform!
 
 ---
 
-Title: Question: [short form of your quesitons]
+Title: [short form of your questions]
 
-[Ask your question! Tho try to keep it to a single question Provide some additional context, links to other resources are always good :)]
+[Ask your question! Tho try to keep it to a single question. Providing additional context and links to other resources are always good :)]
 
 ---
 
