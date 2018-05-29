@@ -29,6 +29,8 @@ We have a public calendar that lists Data Together events and a Youtube playlist
 
 [**Weekly roundtables**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md) are discussions of a Data Together-related topic, challenge, or question led by a rotating facilitator. If you are hosting, be sure to check out [**how to host**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md#how-to-host) (and add any improvements!)
 
+_Please Note: June through August we are switching to a monthly schedule for roundtables. The calendar will have the most up to date details_
+
 📅 5pm-5:30pm ET Mondays  
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
