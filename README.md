@@ -2,7 +2,7 @@
 
 ### <em>Data Together empowers people to create a decentralized civic layer for the web, leveraging community, trust, and shared interest to steward data they care about.</em>
 
-Welcome to [Data Together](https://datatogether.org/), we're building a better future for data. The beta platform at https://archivers.co is one example of where we're going. Come join us!
+Welcome to [Data Together](https://datatogether.org/), we're building a better future for data. The [beta platform at https://archivers.co](https://archivers.co) is one example of where we're going. Come join us!
 
 ## Table of Contents
 
