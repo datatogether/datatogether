@@ -9,6 +9,7 @@ Welcome to [Data Together](https://datatogether.org/), we're building a better f
 - [Get Involved](#get-involved)
   - [Community Calendar](#community-calendar)
   - [~~Weekly Roundtables~~](#weekly-roundtables) _On hold_
+  - [Monthly Reading Groups](#monthly-reading-groups)
   - [Quarterly Coordinating Calls](#quarterly-calls)
 - [Working Openly](#working-openly)
 
@@ -35,13 +36,20 @@ _Please Note: As of August 2018, weekly roundtables are on hold. The calendar wi
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
+## Monthly Reading Groups
+
+[**Monthly reading groups**](https://github.com/datatogether/reading_datatogether/) are 1.5 hour discussions of a series of readings that share a common theme relevant to our interests with Data Together. Coordinating and selecting themes and readings happens in the [`reading_datatogether`](https://github.com/datatogether/reading_datatogether/) repository.
+
+📅 3:30pm-5:00pm ET Tuesdays  
+🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
+▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
+
 ### Quarterly Calls
 
 [**Quarterly calls**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md) are held four times annually, for everyone, but especially Data Together partners to sync up on ongoing projects, what is going on in their organizations, and more.
 
 📅 Once per quarter
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
-
 
 ## Working Openly
 
