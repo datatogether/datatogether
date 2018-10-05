@@ -9,6 +9,7 @@ Welcome to [Data Together](https://datatogether.org/), we're building a better f
 - [Get Involved](#get-involved)
   - [Community Calendar](#community-calendar)
   - [Weekly Roundtables](#weekly-roundtables)
+  - [Monthly Reading Groups](#monthly-reading-groups)
 - [What is Data Together?](#what-is-data-together)
 - [Working Openly](#working-openly)
 
@@ -35,7 +36,7 @@ _Please Note: June through August we are switching to a monthly schedule for rou
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
-## Monthly Reading Group
+## Monthly Reading Groups
 
 [**Monthly reading groups**](https://github.com/datatogether/reading_datatogether/) are 1.5 hour discussions of a series of readings that share a common theme relevant to our interests with Data Together. Coordinating and selecting themes and readings happens in the [`reading_datatogether`](https://github.com/datatogether/reading_datatogether/) repository.
 
