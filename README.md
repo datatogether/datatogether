@@ -36,7 +36,7 @@ _Please Note: As of August 2018, weekly roundtables are on hold. The calendar wi
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/455833201)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
-## Monthly Reading Groups
+### Monthly Reading Groups
 
 [**Monthly reading groups**](https://github.com/datatogether/reading_datatogether/) are 1.5 hour discussions of a series of readings that share a common theme relevant to our interests with Data Together. Coordinating and selecting themes and readings happens in the [`reading_datatogether`](https://github.com/datatogether/reading_datatogether/) repository.
 
