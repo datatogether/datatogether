@@ -32,14 +32,14 @@ We have a public calendar that lists Data Together events and a Youtube playlist
 
 _Please Note: As of August 2018, weekly roundtables are on hold. The calendar will have the most up to date details_
 
-📅 5pm-5:30pm ET Mondays (on hold) 
+📅 5pm-5:30pm ET Mondays (on hold)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
 ### Monthly Reading Groups
 
 [**Monthly reading groups**](https://github.com/datatogether/reading_datatogether/) are 1.5 hour discussions of a series of readings that share a common theme relevant to our interests with Data Together. Coordinating and selecting themes and readings happens in the [`reading_datatogether`](https://github.com/datatogether/reading_datatogether/) repository.
 
-📅 3:30pm-5:00pm ET Tuesdays (starting up again in 2019)
+📅 3:30pm-5:00pm ET Tuesdays (starting up again in 2019)  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
 ### Quarterly Calls
