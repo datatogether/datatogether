@@ -15,9 +15,11 @@ Welcome to [Data Together](https://datatogether.org/), we're building a better f
 
 ## Get Involved
 
-If you would like to **add to the discussion**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md). 
+If you would like to **add to the discussion**, please see our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](https://github.com/datatogether/datatogether/blob/master/CONDUCT.md).
 
 If you want to **get into code and start hacking**, check out [first timer](https://github.com/issues?q=is:open+org:datatogether+label:first-timers-only) issues! [Webapp](https://github.com/datatogether/webapp) and [sentry](http://github.com/datatogether/sentry) are the best points of entry. We track project progress using a [Waffle Board](https://waffle.io/datatogether/roadmap) and identify major goals in our [Roadmap repository](https://github.com/datatogether/roadmap/).
+
+If you would like to get **email notifications**, please join our [public google group.](https://groups.google.com/forum/#!forum/datatogether/join)
 
 ### Community Calendar
 
@@ -43,7 +45,6 @@ _Please Note: As of August 2018, weekly roundtables are on hold. The calendar wi
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
 ### Quarterly Calls
-
 [**Quarterly calls**](https://github.com/datatogether/datatogether/blob/master/guidelines/roundtable.md) are held four times annually, for everyone, but especially Data Together partners to sync up on ongoing projects, what is going on in their organizations, and more.
 
 📅 Once per quarter  
