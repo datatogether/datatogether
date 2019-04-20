@@ -41,7 +41,7 @@ _Please Note: As of August 2018, weekly roundtables are on hold. The calendar wi
 
 [**Monthly reading groups**](https://github.com/datatogether/reading_datatogether/) are 1.5 hour discussions of a series of readings that share a common theme relevant to our interests with Data Together. Coordinating and selecting themes and readings happens in the [`reading_datatogether`](https://github.com/datatogether/reading_datatogether/) repository.
 
-📅 3:30pm-5:00pm ET Tuesdays (starting up again in 2019)  
+📅 17:30-19:00 ET Tuesdays  
 ▶️ Call Playlist: [youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)  
 
 ### Quarterly Calls
